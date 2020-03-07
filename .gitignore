@@ -2,3 +2,4 @@
 .env
 .gopack
 cover.out
+.idea
